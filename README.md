@@ -1,6 +1,6 @@
 
 
-- 👋 Hi friends, I'm Henryque Rodz
+  ## 👋 Hi friends, I'm Henryque Rodz
 
 - 👀 I’m interested in Node.js, Javascript, React and React Native
 - 🌱 I’m currently learning Node.js and PostgreSQL
