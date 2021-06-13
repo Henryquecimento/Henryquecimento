@@ -13,11 +13,21 @@
 
 ## Statistics
 
-<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryquecimento&layout=compact&theme=synthwave"> 
-<p>&nbsp;</p> 
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=Henryquecimento&theme=synthwave&show_icons=true">
-
-
+<p align="left">
+  <img
+      align="center"      
+      width="420px"
+      height="200px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryquecimento&layout=compact&theme=synthwave"
+   />
+  &nbsp &nbsp 
+  <img 
+      align="center"
+      width="420px"
+      height="200px"
+      src="https://github-readme-stats.vercel.app/api?username=Henryquecimento&theme=synthwave&show_icons=true"
+  />
+</p>
 
 <!---
 Henryquecimento/Henryquecimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
