@@ -5,7 +5,7 @@
  ## ABOUT ME :
 - :green_book: I’m currently specializing in Node.js
 - 👀 I’m interested in Node.js, Ruby and Python
-- :books: Studied Technologies: Javascript, Node.Js, HTML, CSS and Postgres
+- :books: Studied Technologies: Typescript, Javascript, Node.Js, Docker, HTML, CSS and Postgres
 
 - 📫 How to reach me henryque.rdgs@gmail.com
 - :computer: Social Medias : [LinkedIn](https://www.linkedin.com/in/henryque-r-245a471b6/) / [Instagram](https://www.instagram.com/henryque_rodz/)
